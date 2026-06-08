@@ -26,8 +26,12 @@ Extensive cross-cultural experiments demonstrate the effectiveness of the propos
 If you utilize the GCC-FER dataset or the CA-FER system in your research, please consider citing our work:
 
 ```bibtex
-@article{singh2026beyond,
-  title={Beyond Universality: The GCC-FER Dataset and Culture-Aware Adaptation for Dynamic Facial Expression Recognition},
-  author={Singh, Sonalika and Dandapat, Jyotirindra and Razdan, Avishi and Moghe, Kshipra V. and Gupta, Puneet and Kumar, Lalan},
-  year={2026}
+@misc{singh2026universalitygccferdatasetcultureaware,
+      title={Beyond Universality: The GCC-FER Dataset and Culture-Aware Adaptation for Dynamic Facial Expression Recognition}, 
+      author={Sonalika Singh and Jyotirindra Dandapat and Avishi Razdan and Kshipra V. Moghe and Puneet Gupta and Lalan Kumar},
+      year={2026},
+      eprint={2606.07063},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2606.07063}, 
 }
